@@ -1,0 +1,29 @@
+.dashboard {
+  display: flex;
+}
+
+.leftbar {
+  width: 20%;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.main-content {
+  width: 80%;
+  padding: 20px;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.card {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-left: 10px;
+}
